@@ -1,0 +1,1 @@
+# Generator model definition placeholder
