@@ -1,4 +1,4 @@
-# 🧠 BERT-GAN: Malicious URL Detection Using Adversarial Learning
+# 🧠 BERT-GAN: Malicious URL Detection Using Deep Learning Techniques
 
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11+-orange)
